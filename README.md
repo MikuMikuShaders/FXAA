@@ -1,6 +1,6 @@
 FXAA
 ========
-FXAA is an post-process for MikuMikuDance, it is very fast implementation on GPU, the method solves most causes of low-freq AA, but cannot fully prevent temporal aliasing
+　　FXAA is an post-process for MikuMikuDance, it is very fast implementation on GPU, the method solves most causes of low-freq AA, but cannot fully prevent temporal aliasing
 
 Requirements:
 -----------
@@ -16,7 +16,7 @@ Quickstart:
 
 Contact :
 ------------
-If you are a developer using this as part of your love and considering contacting me, you can submit code by `Pull requests` or Feel free to contact me via `twitter` and `issues`, i'll add your profile to team members.
+　　If you are a developer using this as part of your love and considering contacting me, you can submit code by `Pull requests` or Feel free to contact me via `twitter` and `issues`, i'll add your profile to team members.
 
 * Reach me via Twitter: [@Rui](https://twitter.com/Rui_cg).
 
