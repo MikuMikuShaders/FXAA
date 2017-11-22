@@ -12,7 +12,7 @@ Quickstart:
 -----------
 * Download a zip archive from the github page.
 * Un-zip the archive.
-* Put the the `FXAA.x` to the MMD window (no controller to change effect).
+* Put the `FXAA.x` to the MMD window (no controller to change effect).
 
 Contact :
 ------------
